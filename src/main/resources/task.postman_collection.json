@@ -15,7 +15,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"email\": \"zakoyangayane@gmail.com\"\r\n}",
+							"raw": "{\r\n    \"email\": \"namesurname@gmail.com\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -84,7 +84,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"email\": \"bccsdsn@gmail.com\",\r\n    \"firstName\": \"Harut\",\r\n    \"lastName\": \"Aristakesyan\",\r\n    \"birthDate\": 1998,\r\n    \"maritalStatus\": 1\r\n}",
+							"raw": "{\r\n    \"email\": \"bccsdsn@gmail.com\",\r\n    \"firstName\": \"Name1\",\r\n    \"lastName\": \"Surname1\",\r\n    \"birthDate\": 1998,\r\n    \"maritalStatus\": 1\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -120,7 +120,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"email\": \"bcidsn@gmail.com\",\r\n    \"firstName\": \"Gayane\",\r\n    \"lastName\": \"Zakoyan\",\r\n    \"birthDate\": 2000,\r\n    \"maritalStatus\": 1\r\n}",
+							"raw": "{\r\n    \"email\": \"bcidsn@gmail.com\",\r\n    \"firstName\": \"Name\",\r\n    \"lastName\": \"Surname\",\r\n    \"birthDate\": 2000,\r\n    \"maritalStatus\": 1\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"

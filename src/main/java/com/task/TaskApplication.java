@@ -41,10 +41,10 @@ public class TaskApplication implements CommandLineRunner {
 
         List<UserEntity> userEntityLis = new ArrayList<>();
 
-        userEntityLis.add(new UserEntity("zakoyangayane@gmail.com", "Gayane", "Zakoyan", 1795464L, 1));
-        userEntityLis.add(new UserEntity("harut.aristakesyan@gmail.com", "Gayane", "Zakoyan", 1795464L, 1));
-        userEntityLis.add(new UserEntity("testr@gmail.com", "Gayane", "Zakoyan", 1795464L, 1));
-        userEntityLis.add(new UserEntity("test@gmail.com", "Gayane", "Zakoyan", 1795464L, 1));
+        userEntityLis.add(new UserEntity("onemail@gmail.com", "Name", "Surname", 1795464L, 1));
+        userEntityLis.add(new UserEntity("twomail@gmail.com", "Name", "Surname", 1795464L, 1));
+        userEntityLis.add(new UserEntity("threemail@gmail.com", "Name", "Surname", 1795464L, 1));
+        userEntityLis.add(new UserEntity("fourmail@gmail.com", "Name", "Surname", 1795464L, 1));
 
         if (userRepository.count() == 0)
             userRepository.saveAll(userEntityLis);
